@@ -16,5 +16,5 @@ It shows how to configure and run a Spring Boot app with a relational database.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/spring-boot-rds-demo.git
+   git clone https://github.com/<your-username>/spring-rds-demo-main.git
    cd spring-rds-demo-main
